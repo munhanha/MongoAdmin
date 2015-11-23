@@ -1,8 +1,12 @@
-<<<<<<< HEAD
-
-install:
-pip install -r requirements.txt
-=======
 # MongoAdmin
 A Simple Python MondoAdmin tool
->>>>>>> f6dd14e0a29a17e9f4d335ab50a79e21c1c2e7ab
+
+
+To install just do:
+pip install -r requirements.txt
+
+To use:
+This is a terminal app, so all you need is to run from a terminal.
+
+Run:
+python saas.py
